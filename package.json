@@ -1,0 +1,16 @@
+{
+  "name": "ai-readme-generator",
+  "version": "1.0.0",
+  "description": "A AI Readme Generator for every project",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "keywords": [
+    "AI",
+    "Readme",
+    "generator"
+  ],
+  "author": "Soam Tripathy",
+  "license": "ISC"
+}
